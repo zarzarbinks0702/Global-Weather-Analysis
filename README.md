@@ -1,3 +1,3 @@
 # python-api-challenge
 
-API assignment associate with class
+API assignment associated with class.
