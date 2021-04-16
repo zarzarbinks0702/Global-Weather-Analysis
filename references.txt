@@ -1,0 +1,8 @@
+References in this list used across WeatherPy and VacationPy.
+
+Used in class activities from Pandas, Matplotlib, and Python API units as reference.
+
+*Convert m/s to mi/hr - conversion of measurement units. (2021). Retrieved April 15, 2021, from https://www.convertunits.com/from/m/s/to/mi/hr
+*GeeksForGeeks. (2020, July 02). Loop or iterate over all or certain columns of a dataframe in Python-Pandas. Retrieved April 14, 2021, from https://www.geeksforgeeks.org/loop-or-iterate-over-all-or-certain-columns-of-a-dataframe-in-python-pandas/#:~:text=Method%20%231%3A%20Using%20DataFrame.iteritems%20%28%29%3A%20Dataframe%20class%20provides,the%20column%20name%20and%20its%20contents%20as%20series.
+*Hasanov, R. (n.d.). How to iterate over rows in a Pandas DataFrame. Retrieved April 16, 2021, from https://www.stackabuse.com/how-to-iterate-over-rows-in-a-pandas-dataframe/
+*Metric Conversions. (2018, July 22). Kelvin to Fahrenheit. Retrieved April 15, 2021, from https://www.metric-conversions.org/temperature/kelvin-to-fahrenheit.htm
