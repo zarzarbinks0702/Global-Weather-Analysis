@@ -1,4 +1,4 @@
-# python-api-challenge
+# Global-Weather-Analysis
 
 API assignment associated with class. Uses OpenWeather, Google Places, and Google Maps APIs. 04/16/2021.
 
