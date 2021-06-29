@@ -1,6 +1,7 @@
 # Global-Weather-Analysis
 
 API assignment associated with class. Uses OpenWeather, Google Places, and Google Maps APIs. 04/16/2021.
+View the analysis on the web: https://zarzarbinks0702.github.io/Web-Design-Global-Weather-Analysis/
 
 --------------------------------------------------------------------------------
 
